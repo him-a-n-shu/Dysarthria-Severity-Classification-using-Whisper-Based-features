@@ -14,6 +14,13 @@ We use a **hybrid deep learning architecture** combining:
 
 ---
 
+## 🗂️ Dataset
+* [Torgo](https://www.openai.com](https://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html "Visit The TORGO database")
+* [UA-Speech](https://speechtechnology.web.illinois.edu/uaspeech/ "Access UA-Speech database")
+* [Class-Data](https://www.kaggle.com/datasets/sochnedo/class-data "Class-Data made using Torgo and UA-Speech")
+
+---
+
 ## 📊 Severity Labeling
 
 Severity levels are annotated using speaker IDs from the **UA-Speech** and **TORGO** datasets:
