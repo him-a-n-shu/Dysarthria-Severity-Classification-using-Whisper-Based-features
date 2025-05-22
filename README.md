@@ -142,7 +142,7 @@ Severity levels are annotated using speaker IDs from the **UA-Speech** and **TOR
 * Jay Gupta
 * Yashan Garg
 
-**Supervisor:** Dr. Karan Nathwani
+**Supervisor:** Dr. Karan Nathwani,
 **Department of Electrical Engineering, IIT Jammu**
 
 ---
