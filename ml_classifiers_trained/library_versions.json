@@ -1,0 +1,13 @@
+{
+    "os": "Not installed",
+    "numpy": "1.26.4",
+    "librosa": "0.10.2.post1",
+    "tqdm": "4.67.1",
+    "pandas": "2.2.2",
+    "warnings": "Not installed",
+    "json": "Not installed",
+    "joblib": "1.4.2",
+    "scikit-learn": "1.6.1",
+    "tensorflow": "2.17.1",
+    "python_speech_features": "0.6"
+}
